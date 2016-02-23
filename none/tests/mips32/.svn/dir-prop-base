@@ -1,0 +1,29 @@
+K 10
+svn:ignore
+V 253
+Makefile
+Makefile.in
+.deps
+vfp
+allexec
+LoadStore1
+MoveIns
+block_size
+round
+MemCpyTest
+FPUarithmetic
+branches
+MIPS32int
+LoadStore
+SignalException
+bug320057-mips32
+unaligned_load_store
+mips32_dsp
+mips32_dspr2
+test_fcsr
+test_math
+round_fpu64
+fpu_branches
+
+
+END

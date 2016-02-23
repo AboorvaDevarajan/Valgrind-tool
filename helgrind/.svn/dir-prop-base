@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 149
+*.dSYM
+.deps
+helgrind-*-darwin
+helgrind-*-linux
+helgrind-*-solaris
+Makefile
+Makefile.in
+vgpreload_helgrind-*-linux.so
+vgpreload_helgrind-*-darwin.so
+
+END

@@ -1,0 +1,27 @@
+K 10
+svn:ignore
+V 243
+*.stderr.diff
+*.stderr.out
+*.stdout.diff
+*.stdout.out
+.deps
+brk
+capget
+getregset
+ioctl-tiocsig
+lsframe1
+lsframe2
+Makefile
+Makefile.in
+rfcomm
+sigqueue
+stack_changes
+stack_switch
+syscalls-2007
+syslog-syscall
+timerfd-syscall
+proc-auxv
+sys-openat
+
+END

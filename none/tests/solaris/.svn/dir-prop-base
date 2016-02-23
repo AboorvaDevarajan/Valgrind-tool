@@ -1,0 +1,34 @@
+K 10
+svn:ignore
+V 407
+*.stderr.diff
+*.stderr.out
+*.stdout.diff
+*.stdout.out
+.deps
+Makefile
+Makefile.in
+block_all_signals
+blockfault
+context_link
+context_link2
+context_null
+context_stack
+coredump_many_segments
+coredump_many_threads
+mmap_noreserve
+posix_spawn
+proc_aout
+proc_auxv
+proc_auxv_multiple
+proc_psinfo
+pthread-stack
+reserve_sysstat_addr
+reserve_sysstat_zone_addr
+resolv
+sigresend
+stack-overflow
+stack_prot
+threads_exitall
+
+END

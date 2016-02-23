@@ -1,0 +1,27 @@
+K 10
+svn:ignore
+V 406
+.deps
+getoff-amd64-darwin
+getoff-x86-darwin
+getoff-amd64-linux
+getoff-x86-linux
+getoff-s390x-linux
+getoff-ppc32-linux
+getoff-ppc64be-linux
+getoff-ppc64le-linux
+getoff-mips32-linux
+getoff-mips64-linux
+getoff-amd64-solaris
+getoff-x86-solaris
+libmpiwrap-PPC32_LINUX.so
+libmpiwrap-PPC64_LINUX.so
+libmpiwrap-x86-darwin.so
+libmpiwrap-x86-darwin.so.dSYM
+Makefile
+Makefile.in
+valgrind-di-server
+valgrind-listener
+
+
+END

@@ -1,0 +1,36 @@
+K 10
+svn:ignore
+V 464
+Makefile
+Makefile.in
+.deps
+allexec
+arithmetic_instruction
+branch_and_jump_instructions
+branches
+cvm_atomic
+cvm_atomic_thread
+cvm_bbit
+cvm_ins
+cvm_lx_ins
+extract_insert_bit_field
+fpu_arithmetic
+fpu_control_word
+fpu_branches
+fpu_load_store
+load_indexed_instructions
+load_store
+load_store_multiple
+load_store_unaligned
+logical_instructions
+move_instructions
+rotate_swap
+round
+shift_instructions
+test_block_size
+test_fcsr
+test_math
+unaligned_load
+unaligned_load_store
+
+END

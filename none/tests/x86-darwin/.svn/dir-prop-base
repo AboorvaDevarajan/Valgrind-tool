@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 110
+*.dSYM
+*.stderr.diff*
+*.stderr.out
+*.stdout.diff*
+*.stdout.out
+.deps
+Makefile
+Makefile.in
+bug341419
+bug350062
+
+END

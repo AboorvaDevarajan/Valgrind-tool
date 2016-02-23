@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 201
+*.dSYM
+.deps
+Makefile
+Makefile.in
+arch_test
+cputest
+is_ppc64_BE
+os_test
+min_power_isa
+mips_features
+mips32_features
+power_insn_available
+s390x_features
+toobig-allocs
+true
+vg_regtest
+x86_amd64_features
+
+END

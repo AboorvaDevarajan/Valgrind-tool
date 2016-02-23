@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 164
+*.stderr.diff
+*.stderr.out
+*.stdout.diff
+*.stdout.out
+.deps
+Makefile
+Makefile.in
+context_eflags
+context_eflags2
+context_fpu
+context_gpr
+context_sse
+ldsoexec
+scalar
+
+END

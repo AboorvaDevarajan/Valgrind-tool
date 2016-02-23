@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 156
+*.diff*
+*.out
+.deps
+blockfault
+brk-overflow1
+brk-overflow2
+Makefile
+Makefile.in
+mremap
+mremap2
+mremap3
+mremap4
+mremap5
+mremap6
+pthread-stack
+stack-overflow
+
+END

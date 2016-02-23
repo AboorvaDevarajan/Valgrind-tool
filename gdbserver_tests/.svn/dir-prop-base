@@ -1,0 +1,29 @@
+K 10
+svn:ignore
+V 227
+*.dSYM
+*.diff
+*.out
+.deps
+clean_after_fork
+detailed
+fork_chain
+gdb
+gdb.eval
+gdb.pic
+gdb.step
+gone
+main_pic
+Makefile
+Makefile.in
+passsigalrm
+progB.done
+self_invalidate
+sleepers
+t
+vgdb
+vgdb.invoker
+vgdb.ptraceinvoker
+watchpoints
+
+END
